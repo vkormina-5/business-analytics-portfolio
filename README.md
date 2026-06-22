@@ -2,42 +2,41 @@
 
 ## 👋 About Me
 
-I'm a Master's graduate in Informatics and Computer Engineering (MIREA University, Russia) with a strong focus on Business Intelligence and data analytics. My master's thesis was dedicated to designing a full-cycle analytical system for business performance monitoring using **Power BI** and **PostgreSQL**.
+I'm a Master's graduate in Informatics and Computer Engineering (MIREA University, Russia) with a strong focus on Business Intelligence and data analytics. My master's thesis was dedicated to designing a full-cycle analytical system for business performance monitoring using **Power BI** (conceptual architecture) and **PostgreSQL**.
 
-I am passionate about helping small and medium-sized businesses turn their data into actionable insights. This portfolio showcases my work in data integration, ETL pipelines, dashboard design, and business analytics.
+Currently, I work with cloud-based BI tools that run natively on macOS, focusing on quick, accessible, and visually compelling data storytelling.
 
 ---
 
 ## 📊 Featured Projects
 
-### 1. Retail Sales Analytics Dashboard
+### 1. Retail Sales Analytics Dashboard (Looker Studio)
 
-**Goal:** Build an interactive dashboard for a retail chain to monitor sales performance, margins, and key KPIs.
+**Goal:** Build an interactive dashboard for a retail chain to monitor sales performance, margins, and regional KPIs.
 
 **Approach:**
 - Designed a star-schema data model in PostgreSQL.
-- Wrote SQL queries to aggregate data by region, product category, and time.
-- Built an interactive Power BI dashboard with drill-through capabilities.
+- Connected Looker Studio to the database via Google BigQuery (or direct PostgreSQL connector).
+- Built interactive charts with drill-down capabilities.
 
 **Key Insights:**
-- Identified top 5 underperforming product categories.
 - Detected seasonal sales patterns.
-- Visualized regional performance heatmaps.
+- Visualized regional performance and top product categories.
 
-**Live Dashboard:** *[Link to Power BI Service will be added here]*
+**Live Dashboard:** *[Link to your Looker Studio dashboard will be added here]*
 
-**GitHub Repository:** *[Link to code / project will be added here]*
+**GitHub Repository:** *[Link to code / SQL queries will be added here]*
 
 ---
 
-### 2. Customer Retention Analysis (ETL + Power BI)
+### 2. Customer Retention Analysis (SQL + Looker Studio)
 
 **Goal:** Analyze customer churn and identify factors influencing retention.
 
 **Approach:**
-- Extracted and cleaned customer transaction data using Python (ETL pipeline).
-- Built a cohort analysis table in PostgreSQL.
-- Visualized retention trends and customer segments in Power BI.
+- Extracted and cleaned customer transaction data using SQL (PostgreSQL).
+- Built a cohort analysis view in the database.
+- Created retention dashboards in Looker Studio.
 
 **Key Insights:**
 - Identified that customers from specific regions had 25% higher churn rates.
@@ -51,11 +50,17 @@ I am passionate about helping small and medium-sized businesses turn their data 
 
 | Category | Tools |
 | :--- | :--- |
-| **Primary BI & Visualization** | **Power BI** (main tool) |
-| **Secondary BI** | Tableau (currently learning) |
+| **Primary BI & Visualization** | **Looker Studio** (Google Data Studio) |
 | **Data Engineering & ETL** | Python, SQL, PostgreSQL, DBeaver |
 | **Version Control** | Git, GitHub |
 | **Documentation** | Markdown, Obsidian |
+
+---
+
+## 💡 Additional Skills
+
+- **Power BI** — conceptual knowledge from my Master's thesis (data modeling, DAX, ETL).
+- **Tableau** — currently exploring as a secondary tool.
 
 ---
 
@@ -63,8 +68,8 @@ I am passionate about helping small and medium-sized businesses turn their data 
 
 - **LinkedIn:** [linkedin.com/in/valeriya-kormina](https://linkedin.com/in/your-profile)
 - **Email:** vkormina5@gmail.com
-- **GitHub:** [github.com/vkormina-5(https://github.com/valeriya-kormina)
+- **GitHub:** [github.com/vkormina-5](https://github.com/vkormina-5)
 
 ---
 
-*This portfolio is a work in progress. More projects, including predictive analytics and dashboards, are coming soon.*
+*This portfolio is a work in progress. More projects, including predictive analytics and Looker Studio tutorials, are coming soon.*
