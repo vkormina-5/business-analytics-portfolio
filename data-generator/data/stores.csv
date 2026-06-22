@@ -1,0 +1,51 @@
+store_id,store_name,city,area,staff_count
+1,TechMarket1,Yekaterinburg,296,5
+2,TechMarket2,Kazan,197,6
+3,TechMarket3,Novosibirsk,170,19
+4,TechMarket4,Kazan,96,18
+5,TechMarket5,Samara,298,7
+6,TechMarket6,Samara,139,18
+7,TechMarket7,Nizhny Novgorod,132,8
+8,TechMarket8,Novosibirsk,134,18
+9,TechMarket9,Samara,123,17
+10,TechMarket10,Omsk,59,19
+11,TechMarket11,Saint Petersburg,130,13
+12,TechMarket12,Nizhny Novgorod,79,17
+13,TechMarket13,Omsk,261,5
+14,TechMarket14,Omsk,168,18
+15,TechMarket15,Moscow,98,16
+16,TechMarket16,Rostov-on-Don,243,20
+17,TechMarket17,Samara,244,6
+18,TechMarket18,Yekaterinburg,118,9
+19,TechMarket19,Kazan,162,20
+20,TechMarket20,Saint Petersburg,57,12
+21,TechMarket21,Novosibirsk,129,5
+22,TechMarket22,Omsk,154,7
+23,TechMarket23,Yekaterinburg,265,8
+24,TechMarket24,Samara,292,8
+25,TechMarket25,Novosibirsk,177,14
+26,TechMarket26,Omsk,230,13
+27,TechMarket27,Chelyabinsk,263,20
+28,TechMarket28,Samara,112,19
+29,TechMarket29,Omsk,87,17
+30,TechMarket30,Yekaterinburg,285,9
+31,TechMarket31,Saint Petersburg,120,18
+32,TechMarket32,Nizhny Novgorod,289,13
+33,TechMarket33,Moscow,122,14
+34,TechMarket34,Rostov-on-Don,198,20
+35,TechMarket35,Novosibirsk,164,20
+36,TechMarket36,Nizhny Novgorod,135,17
+37,TechMarket37,Samara,288,15
+38,TechMarket38,Yekaterinburg,228,12
+39,TechMarket39,Rostov-on-Don,148,12
+40,TechMarket40,Chelyabinsk,61,15
+41,TechMarket41,Samara,230,17
+42,TechMarket42,Chelyabinsk,219,9
+43,TechMarket43,Samara,296,6
+44,TechMarket44,Novosibirsk,178,15
+45,TechMarket45,Saint Petersburg,273,19
+46,TechMarket46,Saint Petersburg,184,19
+47,TechMarket47,Moscow,234,9
+48,TechMarket48,Chelyabinsk,272,9
+49,TechMarket49,Saint Petersburg,170,13
+50,TechMarket50,Nizhny Novgorod,209,17
