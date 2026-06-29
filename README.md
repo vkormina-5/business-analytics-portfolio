@@ -44,10 +44,15 @@ End-to-end BI project analysing sales performance for a small retail business. B
 - SQL queries for KPI calculation: revenue by category, seller performance, delivery SLA
 - Tableau dashboard with three views: Executive Overview, Seller Analysis, Customer Satisfaction
 
-**Status:** In active development. Dashboard link will be published on Tableau Public upon completion.
+**Live Dashboard:** [Retail Sales Performance](https://public.tableau.com/app/profile/valerie.kormina/viz/RetailSalesMonthlyPerformance/Dashboard1)
 
-📁 🔗 [Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/valerie.kormina/viz/RetailSalesMonthlyPerformance/Dashboard1)
 ![Dashboard Preview](dashboard-preview.png)
+
+**Key Insights:**
+- Cameras are the top revenue-generating category across all 6 product types
+- Laptops ranked lowest in revenue despite being a high-price item
+- Sales show seasonal patterns with visible peak periods over the timeline
+- Revenue is concentrated in a limited number of cities — a diversification risk for the business
 
 ---
 
