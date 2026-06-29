@@ -46,7 +46,7 @@ End-to-end BI project analysing sales performance for a small retail business. B
 
 **Status:** In active development. Dashboard link will be published on Tableau Public upon completion.
 
-📁 Repository coming soon
+📁 🔗 [Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/valerie.kormina/viz/RetailSalesMonthlyPerformance/Dashboard1)
 
 ---
 
