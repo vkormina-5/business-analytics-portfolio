@@ -18,31 +18,10 @@ My background combines hands-on analytics experience (Servier Russia, pharmaceut
 
 ## Projects
 
-### 1. Synthetic Business Data Generator
-`Python` `PostgreSQL` `ETL`
+### 1. Retail Sales Performance Dashboard
+`Tableau` `Synthetic Data`
 
-A modular data generation pipeline developed as part of my master's thesis research. Produces realistic synthetic datasets simulating SME business operations — orders, products, customers, and sales transactions — for use in BI system testing and performance benchmarking.
-
-**What it does:**
-- Generates configurable volumes of synthetic transactional data
-- Loads directly into PostgreSQL via automated ETL pipeline
-- Supports reproducible testing environments for BI platform evaluation
-
-**Why it matters:** Synthetic data generation was a key methodological contribution of my thesis — enabling rigorous performance and security testing of the analytical system without exposing real business data.
-
-📁 [View code → data-generator/](./data-generator)
-
----
-
-### 2. SME Sales Performance Dashboard *(in progress)*
-`Tableau` `PostgreSQL` `Python` `SQL`
-
-End-to-end BI project analysing sales performance for a small retail business. Built on the Brazilian e-commerce dataset (Olist, 100k+ real orders from Brazilian SMEs).
-
-**Approach:**
-- ETL pipeline in Python (Pandas) — cleaning, joining, loading to PostgreSQL
-- SQL queries for KPI calculation: revenue by category, seller performance, delivery SLA
-- Tableau dashboard with three views: Executive Overview, Seller Analysis, Customer Satisfaction
+An interactive sales dashboard built on synthetic retail data generated as part of my master's thesis research — 10,000 transactions, 50 stores, 200 products across 6 categories.
 
 **Live Dashboard:** [Retail Sales Performance](https://public.tableau.com/app/profile/valerie.kormina/viz/RetailSalesMonthlyPerformance/Dashboard1)
 
@@ -53,6 +32,27 @@ End-to-end BI project analysing sales performance for a small retail business. B
 - Laptops ranked lowest in revenue despite being a high-price item
 - Sales show seasonal patterns with visible peak periods over the timeline
 - Revenue is concentrated in a limited number of cities — a diversification risk for the business
+
+---
+
+### 2. Rio de Janeiro Airbnb Market Analysis
+`Tableau` `Real-World Data`
+
+An end-to-end analysis of the short-term rental market in Rio de Janeiro, Brazil, built on real Airbnb listings data (40,770 listings) from Inside Airbnb. The project explores pricing patterns, accommodation types, and geographic concentration of supply across the city.
+
+**Live Dashboard:** [Rio de Janeiro Airbnb Market Analysis](https://public.tableau.com/app/profile/valerie.kormina/viz/RiodeJaneiroAirbnbMarketAnalysis/Dashboard1)
+
+**Approach:**
+- Sourced and cleaned 40,770 real listings from Inside Airbnb (Creative Commons licensed open data)
+- Built three connected views: pricing by neighbourhood, pricing by room type, and a density map of listing concentration
+- Applied outlier and sample-size filtering to avoid misleading averages from low-volume neighbourhoods
+
+**Key Insights:**
+- Joá, São Conrado, and Estácio rank among the highest-priced neighbourhoods, consistent with their coastal/premium positioning
+- Entire home/apartment listings command the highest average price, while hotel-room listings receive the highest average number of reviews — suggesting hotel-style listings benefit from greater guest trust and repeat bookings
+- Listing density is heavily concentrated along Rio's coastline, particularly around the South Zone beach neighbourhoods
+
+**Why it matters:** This project reflects a personal research interest — evaluating short-term rental markets in Brazil ahead of relocation for doctoral study — combined with the technical skills required to extract a business-relevant story from a large, real-world dataset.
 
 ---
 
